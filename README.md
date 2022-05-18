@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![본인깃허브ID's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyeongwoo-LEE&show_icons=true&theme=white)
+
 <!--
 **hyeongwoo-LEE/hyeongwoo-LEE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
