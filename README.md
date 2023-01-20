@@ -1,4 +1,4 @@
-### - 📫 How to reach me: lhw970804@naver.com
+### - 📫 How to reach me: browoo084@gmail.com
 
 ![본인깃허브ID's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyeongwoo-LEE&show_icons=true&theme=white)
 
